@@ -8,7 +8,7 @@ The program takes three arguments
 																												
 	1)	input file (inFile.txt)																						
 	2)  debug file (debugFile.txt)																																	
-	3)  output file (outFil.txt)																																				
+	3)  output file (outFile.txt)																																				
 																																
 The program takes data from an input file (inFile.txt) and Build a Heap. Then it deletes the root and rearranges the Heap to keep order,
 resulting in a Sorted list of numbers being outputed in output file (outFile.txt). In addition as the Heap being built or deleted 
